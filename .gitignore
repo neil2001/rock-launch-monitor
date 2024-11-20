@@ -1,0 +1,11 @@
+env
+
+/data/**
+!/data/**/
+!/data/**/.gitkeep
+
+/output/**
+!/output/**/
+!/output/**/.gitkeep
+
+
